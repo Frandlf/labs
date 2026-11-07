@@ -1,0 +1,5 @@
+prometheus-node-exporter:
+  hostRootFsMount:
+    enabled: false
+grafana:
+  adminPassword: olbois
